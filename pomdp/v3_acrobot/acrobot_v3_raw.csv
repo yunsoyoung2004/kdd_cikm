@@ -1,0 +1,2 @@
+﻿preset,seed,episodes_completed,last100_mean,best_reward,eval_mean,eval_std,spike_count,collapse_count
+acrobot_reliable_v3,0,24000,-192.95,-90.0,-181.1999969482422,97.79039001464844,4,50

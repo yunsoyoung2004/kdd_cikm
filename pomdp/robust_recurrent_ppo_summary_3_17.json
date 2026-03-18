@@ -1,0 +1,18 @@
+[
+  {
+    "preset": "acrobot_reliable_317",
+    "n_seeds": 1,
+    "auc_mean": -500.0,
+    "last100_mean": -500.0,
+    "last100_std": 0.0,
+    "best_reward": -500.0,
+    "first_solve_ep": -1.0,
+    "episodes_completed": 4.0,
+    "best_eval_mean_during_training": 0.0,
+    "best_eval_episode": -1.0,
+    "spike_count": 0.0,
+    "collapse_count": 0.0,
+    "final_eval_mean_best_ckpt": 0.0,
+    "final_eval_std_best_ckpt": 0.0
+  }
+]

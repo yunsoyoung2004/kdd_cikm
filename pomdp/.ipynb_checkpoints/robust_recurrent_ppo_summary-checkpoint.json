@@ -1,0 +1,14 @@
+[
+  {
+    "preset": "mountaincar_reliable",
+    "n_seeds": 3,
+    "auc_mean": -191.86190795898438,
+    "last100_mean": -171.3066660563151,
+    "last100_std": 5.976065635681152,
+    "best_reward": -148.0,
+    "first_solve_ep": -1.0,
+    "eval_mean": -146.93333435058594,
+    "eval_std": 10.263387680053711,
+    "episodes_completed": 18000.0
+  }
+]

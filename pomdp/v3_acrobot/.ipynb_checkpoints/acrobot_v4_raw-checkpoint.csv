@@ -1,0 +1,2 @@
+﻿preset,seed,episodes_completed,last100_mean,best_reward,final_eval_mean_best_ckpt,final_eval_std_best_ckpt,best_eval_mean_during_training,best_eval_episode,spike_count,collapse_count
+acrobot_reliable_v4_stable,0,2,-500.0,-500.0,-500.0,0.0,0.0,-1,0,0

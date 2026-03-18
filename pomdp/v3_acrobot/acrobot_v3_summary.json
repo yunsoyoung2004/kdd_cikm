@@ -1,0 +1,11 @@
+{
+  "preset": "acrobot_reliable_v3",
+  "seed": 0,
+  "episodes_completed": 24000,
+  "last100_mean": -192.95,
+  "best_reward": -90.0,
+  "eval_mean": -181.1999969482422,
+  "eval_std": 97.79039001464844,
+  "spike_count": 4,
+  "collapse_count": 50
+}

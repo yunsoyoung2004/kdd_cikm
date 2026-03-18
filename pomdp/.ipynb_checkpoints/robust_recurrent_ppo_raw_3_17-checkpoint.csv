@@ -1,0 +1,2 @@
+﻿auc_mean,best_eval_episode,best_eval_mean_during_training,best_reward,collapse_count,env_id,episodes_completed,first_solve_ep,last100_mean,last100_std,preset,seed,spike_count
+-500.0,-1,0.0,-500.0,0,Acrobot-v1,4,-1,-500.0,0.0,acrobot_reliable_317,0,0

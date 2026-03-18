@@ -1,0 +1,26 @@
+[
+  {
+    "preset": "cartpole_reliable",
+    "n_seeds": 3,
+    "auc_mean": 61.82966613769531,
+    "last100_mean": 78.69333394368489,
+    "last100_std": 59.501241048177086,
+    "best_reward": 476.3333333333333,
+    "first_solve_ep": -1.0,
+    "eval_mean": 104.83333079020183,
+    "eval_std": 2.46165402730306,
+    "episodes_completed": 3000.0
+  },
+  {
+    "preset": "acrobot_reliable",
+    "n_seeds": 1,
+    "auc_mean": -496.0917663574219,
+    "last100_mean": -497.30999755859375,
+    "last100_std": 16.056583404541016,
+    "best_reward": -296.0,
+    "first_solve_ep": -1.0,
+    "eval_mean": -500.0,
+    "eval_std": 0.0,
+    "episodes_completed": 948.0
+  }
+]

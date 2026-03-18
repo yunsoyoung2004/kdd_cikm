@@ -1,0 +1,9 @@
+{
+  "variant": "FULL",
+  "seed": 4,
+  "episodes_total": 5000,
+  "last_saved_epoch": 4999,
+  "extra_updates_on_event": 1,
+  "timestamp": "2026-03-12 01:34:33",
+  "status": "finished"
+}

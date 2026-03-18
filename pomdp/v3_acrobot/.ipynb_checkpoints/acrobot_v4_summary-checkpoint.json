@@ -1,0 +1,13 @@
+{
+  "preset": "acrobot_reliable_v4_stable",
+  "seed": 0,
+  "episodes_completed": 2,
+  "last100_mean": -500.0,
+  "best_reward": -500.0,
+  "final_eval_mean_best_ckpt": -500.0,
+  "final_eval_std_best_ckpt": 0.0,
+  "best_eval_mean_during_training": 0.0,
+  "best_eval_episode": -1,
+  "spike_count": 0,
+  "collapse_count": 0
+}

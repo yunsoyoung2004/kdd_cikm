@@ -1,0 +1,2 @@
+﻿auc_mean,best_reward,episodes_completed,eval_mean,eval_std,first_solve_ep,last100_mean,last100_std,n_seeds,preset
+-187.82148234049478,-59.666666666666664,16000.0,-83.33333333333333,17.209563891092937,8897.0,-90.61000061035156,30.44225565592448,3,acrobot_reliable

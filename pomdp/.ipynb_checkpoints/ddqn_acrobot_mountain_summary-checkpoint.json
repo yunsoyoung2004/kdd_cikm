@@ -1,0 +1,28 @@
+[
+  {
+    "preset": "acrobot_best",
+    "env_id": "Acrobot-v1",
+    "n_seeds": 3,
+    "episodes_completed": 4503,
+    "auc_mean": -98.98705778004309,
+    "last100_mean": -73.42333333333335,
+    "last100_std": 7.805110280363785,
+    "best_reward": -61.0,
+    "first_solve_ep": 1084,
+    "eval_mean": -68.56666666666666,
+    "eval_std": 1.383876543556128
+  },
+  {
+    "preset": "mountaincar_best",
+    "env_id": "MountainCar-v0",
+    "n_seeds": 3,
+    "episodes_completed": 2553,
+    "auc_mean": -137.0720164216301,
+    "last100_mean": -108.66333333333334,
+    "last100_std": 6.918290314940016,
+    "best_reward": -83.0,
+    "first_solve_ep": 2028,
+    "eval_mean": -106.36666666666667,
+    "eval_std": 2.6920142729216856
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "preset": "mountaincar_reliable",
+  "env_id": "MountainCar-v0",
+  "seed": 2,
+  "last_saved_episode": 17999,
+  "timestamp": "2026-03-13 02:17:02",
+  "global_step": 3162568,
+  "status": "finished_or_stopped"
+}

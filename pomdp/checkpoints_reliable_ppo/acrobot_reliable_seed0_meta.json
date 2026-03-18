@@ -1,0 +1,9 @@
+{
+  "preset": "acrobot_reliable",
+  "env_id": "Acrobot-v1",
+  "seed": 0,
+  "last_saved_episode": 947,
+  "timestamp": "2026-03-12 15:29:35",
+  "global_step": 470753,
+  "status": "finished_or_stopped"
+}

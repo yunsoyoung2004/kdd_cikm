@@ -1,0 +1,9 @@
+{
+  "preset": "mountaincar_pomdp",
+  "env_id": "MountainCar-v0",
+  "seed": 2,
+  "last_saved_episode": 1499,
+  "timestamp": "2026-03-12 10:18:28",
+  "global_step": 300000,
+  "status": "finished_or_stopped"
+}

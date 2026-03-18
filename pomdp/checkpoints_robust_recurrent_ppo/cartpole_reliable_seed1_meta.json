@@ -1,0 +1,9 @@
+{
+  "preset": "cartpole_reliable",
+  "env_id": "CartPole-v1",
+  "seed": 1,
+  "last_saved_episode": 3999,
+  "timestamp": "2026-03-17 13:24:26",
+  "global_step": 263786,
+  "status": "finished_or_stopped"
+}

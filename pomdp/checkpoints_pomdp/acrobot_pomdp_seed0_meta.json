@@ -1,0 +1,9 @@
+{
+  "preset": "acrobot_pomdp",
+  "env_id": "Acrobot-v1",
+  "seed": 0,
+  "last_saved_episode": 1499,
+  "timestamp": "2026-03-12 09:29:39",
+  "global_step": 748557,
+  "status": "finished_or_stopped"
+}
