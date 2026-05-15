@@ -1,0 +1,9 @@
+﻿condition,condition_label,reference,n,spearman,pearson
+image_only,Image-only,Mobility-subway gap,326,0.09536645996025471,0.06212327962426005
+image_only,Image-only,Fixed reconstruction,326,-0.03401800514229351,-0.013956255645788201
+tabular_only,Tabular-only,Mobility-subway gap,327,0.2783715801538051,0.2853410838684845
+tabular_only,Tabular-only,Fixed reconstruction,327,0.649778192424816,0.6938198775444174
+naive_multimodal,Naive multimodal,Mobility-subway gap,326,0.5477182580000787,0.5345259605093134
+naive_multimodal,Naive multimodal,Fixed reconstruction,326,0.4113489481642665,0.44412662662870395
+structured_multimodal,Structured multimodal,Mobility-subway gap,327,0.5431249969437734,0.541166934035015
+structured_multimodal,Structured multimodal,Fixed reconstruction,327,0.4603684922397959,0.49577382894911737

@@ -1,0 +1,15 @@
+﻿station_id,station_name,station_line,map_image_path,satellite_image_path,mobility_score,observed_subway_score,hidden_gap_score,temporal_score,visual_morphology_score,mobility_minus_subway_gap,hidden_demand_reconstruction_score_norm,station_type,_condition,_model,_station_id,_station_name,_error,hidden_demand_score,hidden_demand_label,confidence,primary_evidence,uses_visual_reasoning,uses_mobility_subway_reasoning,uses_temporal_reasoning,explanation,risk_note,_raw_output
+2712,도봉산,7호선,images/station_tiles/map/2712_도봉산.png,images/station_tiles/satellite/2712_도봉산.png,0.1373745650711917,0.1175770045440734,0.17876122426700827,0.6865708399798198,0.06744955151924736,0.0197975605271182,0.5680567545638621,normal,tabular_only,gpt-4o-mini,2712,도봉산,,5.0,high,5.0,mixed,True,True,True,"Despite a relatively low observed subway activity score, the high mobility demand score and the substantial hidden gap indicate that there is likely unmet demand for public transit in the area, supported by temporal activity patterns that suggest peak demand times not reflected in subway usage.",Underestimating hidden demand could lead to inadequate service adjustments.,"```json
+{
+  ""station_name"": ""도봉산"",
+  ""hidden_demand_score"": 5,
+  ""hidden_demand_label"": ""high"",
+  ""confidence"": 5,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""Despite a relatively low observed subway activity score, the high mobility demand score and the substantial hidden gap indicate that there is likely unmet demand for public transit in the area, supported by temporal activity patterns that suggest peak demand times not reflected in subway usage."",
+  ""risk_note"": ""Underestimating hidden demand could lead to inadequate service adjustments.""
+}
+```"

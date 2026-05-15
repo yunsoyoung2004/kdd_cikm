@@ -1,0 +1,10 @@
+Manuscript Item,File Path,Placement,Recommended Caption / Purpose
+Main result table,quad_reconstructed_hidden_demand_result.csv,Early Results section,Source table for final reconstruction results and top hidden-demand ranking
+Axis decomposition table,quad_latent_decomposition.csv,After Method or Appendix,Quad axis definitions and station-level axis scores
+Case study figure,case_study_top_hidden_demand.png,Middle of Results / Case Study section,Visualization of top five hidden-demand cases
+Case study table,case_study_top_hidden_demand_table.csv,Immediately after case study figure,Numerical summary of stations shown in the figure
+Baseline figure/table,baseline_reconstruction_comparison.png / .csv,Quantitative Results section,Baseline comparison
+Weight sensitivity,weight_sensitivity_results.csv / weight_sensitivity_distribution.png,Appendix or later Quantitative Results,Weight sensitivity analysis and distribution
+Robustness figure/table,top_station_robustness.png / .csv,Later Quantitative Results section,Top-station robustness
+Semantic profile,hidden_demand_semantic_profile.png / .csv,After Case Study or Appendix,Interpretation of hidden-demand morphology
+Hidden vs non-hidden,hidden_vs_nonhidden_semantic_difference.png / .csv,Appendix,Limitations of semantic difference analysis

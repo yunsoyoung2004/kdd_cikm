@@ -1,0 +1,9 @@
+﻿condition,reference,n,spearman,pearson
+image_only,mobility_minus_subway_gap,326,0.09536645996025471,0.06212327962426005
+image_only,hidden_demand_reconstruction_score_norm_fixed,326,-0.03401800514229351,-0.0139562556457882
+naive_multimodal,mobility_minus_subway_gap,326,0.5477182580000787,0.5345259605093134
+naive_multimodal,hidden_demand_reconstruction_score_norm_fixed,326,0.4113489481642665,0.44412662662870406
+structured_multimodal,mobility_minus_subway_gap,327,0.5431249969437734,0.541166934035015
+structured_multimodal,hidden_demand_reconstruction_score_norm_fixed,327,0.4603684922397959,0.49577382894911737
+tabular_only,mobility_minus_subway_gap,327,0.2783715801538051,0.2853410838684845
+tabular_only,hidden_demand_reconstruction_score_norm_fixed,327,0.649778192424816,0.6938198775444174

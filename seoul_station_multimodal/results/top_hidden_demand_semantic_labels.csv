@@ -1,0 +1,31 @@
+station_id,nearest_station,nearest_line,reconstruction_label,hidden_demand_reconstruction_score_norm,top_semantic_1,top_semantic_1_score,top_semantic_3
+2561,마천,5호선,High Priority Hidden Demand,1.0,suburban_peripheral,0.29037142,suburban_peripheral; green_mountain_area; low_density_residential
+2824,단대오거리,8호선,High Priority Hidden Demand,0.9212346761137288,suburban_peripheral,0.28767496,suburban_peripheral; low_density_residential; university_area
+249,신정네거리,2호선,High Priority Hidden Demand,0.8756569727643005,low_density_residential,0.30441666,low_density_residential; suburban_peripheral; river_or_waterfront
+2519,까치산,5호선,Potential Hidden Demand,0.8543343788529321,low_density_residential,0.296813,low_density_residential; suburban_peripheral; river_or_waterfront
+2757,부천시청,7호선,High Priority Hidden Demand,0.8509471495617229,river_or_waterfront,0.29539785,river_or_waterfront; suburban_peripheral; low_density_residential
+2823,남한산성입구(성남법원.검찰청),8호선,Potential Hidden Demand,0.8478488583749231,green_mountain_area,0.28526428,green_mountain_area; suburban_peripheral; river_or_waterfront
+2560,거여,5호선,High Priority Hidden Demand,0.8388228202539413,suburban_peripheral,0.29873022,suburban_peripheral; river_or_waterfront; low_density_residential
+4709,북한산보국문,우이신설선,High Priority Hidden Demand,0.8075373414025647,green_mountain_area,0.2935333,green_mountain_area; suburban_peripheral; river_or_waterfront
+4107,가양,9호선,Potential Hidden Demand,0.7896203144703628,river_or_waterfront,0.31644148,river_or_waterfront; suburban_peripheral; low_transit_access
+248,양천구청,2호선,High Priority Hidden Demand,0.7835695714342912,river_or_waterfront,0.29806936,river_or_waterfront; suburban_peripheral; road_oriented
+314,홍제,3호선,Potential Hidden Demand,0.776948773855855,suburban_peripheral,0.28890455,suburban_peripheral; green_mountain_area; low_density_residential
+2716,중계,7호선,Potential Hidden Demand,0.7718094675166568,low_density_residential,0.29933822,low_density_residential; suburban_peripheral; river_or_waterfront
+2826,수진,8호선,High Priority Hidden Demand,0.7702199263982012,river_or_waterfront,0.2861015,river_or_waterfront; road_oriented; suburban_peripheral
+2750,광명사거리,7호선,Potential Hidden Demand,0.7680293178091324,suburban_peripheral,0.2886812,suburban_peripheral; green_mountain_area; river_or_waterfront
+2820,장지,8호선,Potential Hidden Demand,0.7604512988206732,suburban_peripheral,0.30185628,suburban_peripheral; road_oriented; low_density_residential
+4138,중앙보훈병원,9호선(연장),High Priority Hidden Demand,0.7594595394192527,green_mountain_area,0.28630316,green_mountain_area; river_or_waterfront; suburban_peripheral
+2611,응암,6호선,Potential Hidden Demand,0.7580054284376951,river_or_waterfront,0.29657435,river_or_waterfront; suburban_peripheral; low_density_residential
+4111,신목동,9호선,High Priority Hidden Demand,0.7516874100422541,river_or_waterfront,0.31412962,river_or_waterfront; road_oriented; suburban_peripheral
+2756,신중동,7호선,High Priority Hidden Demand,0.7516667150055841,river_or_waterfront,0.2970286,river_or_waterfront; low_density_residential; suburban_peripheral
+4109,등촌,9호선,High Priority Hidden Demand,0.7411607108302896,river_or_waterfront,0.29978544,river_or_waterfront; suburban_peripheral; low_density_residential
+338,일원,3호선,High Priority Hidden Demand,0.7310476964866612,suburban_peripheral,0.2882361,suburban_peripheral; river_or_waterfront; green_mountain_area
+333,매봉,3호선,Morphology-Supported Hidden Demand,0.730270676986447,river_or_waterfront,0.30983597,river_or_waterfront; suburban_peripheral; low_density_residential
+2825,신흥,8호선,High Priority Hidden Demand,0.7284037440857478,river_or_waterfront,0.29207763,river_or_waterfront; suburban_peripheral; road_oriented
+2725,용마산,7호선,High Priority Hidden Demand,0.7274652997784844,river_or_waterfront,0.29240686,river_or_waterfront; suburban_peripheral; green_mountain_area
+4701,북한산우이,우이신설선,High Priority Hidden Demand,0.7233260634401836,green_mountain_area,0.29510942,green_mountain_area; suburban_peripheral; river_or_waterfront
+2544,장한평,5호선,Morphology-Supported Hidden Demand,0.721211712944233,river_or_waterfront,0.30226102,river_or_waterfront; road_oriented; suburban_peripheral
+4106,양천향교,9호선,High Priority Hidden Demand,0.7199032516508522,river_or_waterfront,0.30914557,river_or_waterfront; suburban_peripheral; low_transit_access
+2821,복정,8호선,High Priority Hidden Demand,0.7194360772643268,suburban_peripheral,0.29350683,suburban_peripheral; road_oriented; river_or_waterfront
+4132,석촌고분,9호선(연장),High Priority Hidden Demand,0.7186906626089533,low_density_residential,0.30277157,low_density_residential; river_or_waterfront; suburban_peripheral
+2553,고덕,5호선,High Priority Hidden Demand,0.7171859154194962,river_or_waterfront,0.3003988,river_or_waterfront; suburban_peripheral; low_density_residential

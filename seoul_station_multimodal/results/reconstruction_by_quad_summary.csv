@@ -1,0 +1,5 @@
+quad_mobility_subway_label,Already Captured Core Demand,High Priority Hidden Demand,Low Priority,Morphology-Supported Hidden Demand,Potential Hidden Demand,Transit-Dominant Demand
+Hidden Transit Demand,0,56,0,0,0,0
+Low Demand / Peripheral,0,0,90,17,0,0
+Observed Core Demand,77,0,0,23,8,0
+Transit-Dominant / Transfer-Oriented,0,0,0,0,0,56

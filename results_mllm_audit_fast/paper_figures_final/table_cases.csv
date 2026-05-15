@@ -1,0 +1,5 @@
+﻿station_name,station_name_en,gap,reconstruction,map_image_path,satellite_image_path,image_only,tabular_only,naive_multimodal,structured_multimodal
+까치산,Kkachisan,0.6781251119007279,0.48082401928555774,images/station_tiles/satellite/2519_까치산.png,images/station_tiles/satellite/2519_까치산.png,2.0,4.0,5.0,5.0
+단대오거리,Dandaeogeori,0.6170014051339521,0.41398202936664474,images/station_tiles/satellite/2824_단대오거리.png,images/station_tiles/satellite/2824_단대오거리.png,2.0,5.0,4.0,5.0
+마천,Macheon,0.6130045307725955,0.47161954854262544,images/station_tiles/satellite/2561_마천.png,images/station_tiles/satellite/2561_마천.png,2.0,5.0,4.0,4.0
+홍제,Hongje,0.4455647332370832,0.9640587332895026,images/station_tiles/satellite/314_홍제.png,images/station_tiles/satellite/314_홍제.png,2.0,5.0,5.0,5.0

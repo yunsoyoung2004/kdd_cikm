@@ -1,0 +1,9 @@
+﻿_station_id,_station_name,image_only,naive_multimodal,structured_multimodal,tabular_only,station_order,_station_name_en
+2519,까치산,2.0,5.0,5.0,4.0,0,Kkachisan
+2824,단대오거리,2.0,4.0,5.0,5.0,1,Dandaeogeori
+2561,마천,2.0,4.0,4.0,5.0,2,Macheon
+249,신정네거리,2.0,5.0,5.0,5.0,3,Sinjeongnegeori
+314,홍제,2.0,5.0,5.0,5.0,4,Hongje
+248,양천구청,2.0,4.0,5.0,5.0,5,Yangcheon-gu Office
+310,구파발,2.0,4.0,5.0,4.0,6,Gupabal
+211,성수,2.0,5.0,5.0,5.0,7,Seongsu

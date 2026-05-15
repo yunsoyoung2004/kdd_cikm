@@ -1,0 +1,5 @@
+﻿condition,condition_label,missed_high_gap_cases,spurious_visual_cases
+image_only,Image-only,42,3
+tabular_only,Tabular-only,20,0
+naive_multimodal,Naive multimodal,10,21
+structured_multimodal,Structured multimodal,15,1

@@ -1,0 +1,5 @@
+﻿condition,condition_label,visual_reasoning,mobility_subway_reasoning,temporal_reasoning,unsupported_visual_reasoning
+image_only,Image,1.0,0.0,0.0,0.49693251533742333
+tabular_only,Tabular,0.0061162079510703364,1.0,0.9847094801223242,0.0
+naive_multimodal,Naive MM,1.0,1.0,1.0,0.49693251533742333
+structured_multimodal,Structured MM,0.2324159021406728,1.0,0.9938837920489296,0.05198776758409786

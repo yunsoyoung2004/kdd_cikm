@@ -1,0 +1,9 @@
+﻿condition,condition_label,reference,spearman
+image_only,Image,Gap,0.09536645996025471
+image_only,Image,Reconstruction,-0.03401800514229351
+tabular_only,Tabular,Gap,0.2783715801538051
+tabular_only,Tabular,Reconstruction,0.649778192424816
+naive_multimodal,Naive MM,Gap,0.5477182580000787
+naive_multimodal,Naive MM,Reconstruction,0.4113489481642665
+structured_multimodal,Structured MM,Gap,0.5431249969437734
+structured_multimodal,Structured MM,Reconstruction,0.4603684922397959

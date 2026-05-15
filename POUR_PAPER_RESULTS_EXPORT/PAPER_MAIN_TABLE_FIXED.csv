@@ -1,0 +1,5 @@
+model,mae,rmse,uncertainty_error_corr,source_file
+POUR,0.1485145409714501,0.2623284824614255,0.6438501164026812,./outputs_pour_main_100_200/test_result.csv
+STGC,0.1649875859232069,0.2787175855171755,,./baseline_main_stgc_100/test_result.csv
+GRU,0.1662091122670743,0.2797586205620436,,./baseline_main_gru_100/test_result.csv
+Transformer,0.1837054176619217,0.3047056624536994,,./baseline_main_transformer_100/test_result.csv

@@ -1,0 +1,155 @@
+﻿station_id,station_name,station_line,map_image_path,satellite_image_path,mobility_score,observed_subway_score,hidden_gap_score,temporal_score,visual_morphology_score,mobility_minus_subway_gap,hidden_demand_reconstruction_score_norm,station_type,_condition,_model,_station_id,_station_name,_error,hidden_demand_score,hidden_demand_label,confidence,primary_evidence,uses_visual_reasoning,uses_mobility_subway_reasoning,uses_temporal_reasoning,explanation,risk_note,_raw_output
+2751,천왕,7호선,images/station_tiles/map/2751_천왕.png,images/station_tiles/satellite/2751_천왕.png,0.2199040384746132,0.1070766885973562,0.28955931402568535,0.485195488374478,0.19446505019806362,0.1128273498772569,0.6054284437540226,normal,structured_multimodal,gpt-4o-mini,2751,천왕,,2.0,medium,3.0,mixed,True,True,True,"The mobility score suggests some demand, while the observed subway usage is low, indicating a potential mismatch. The temporal evidence shows fluctuations, implying that demand may vary at different times. Visual morphology supports the presence of potential users, but the low observed usage reduces overall confidence in the hidden demand score.",Moderate discrepancies between mobility and subway usage indicate possible underutilization of transit options.,"```json
+{
+  ""station_name"": ""천왕"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 3,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""The mobility score suggests some demand, while the observed subway usage is low, indicating a potential mismatch. The temporal evidence shows fluctuations, implying that demand may vary at different times. Visual morphology supports the presence of potential users, but the low observed usage reduces overall confidence in the hidden demand score."",
+  ""risk_note"": ""Moderate discrepancies between mobility and subway usage indicate possible underutilization of transit options.""
+}
+```"
+4137,둔촌오륜,9호선(연장),images/station_tiles/map/4137_둔촌오륜.png,images/station_tiles/satellite/4137_둔촌오륜.png,0.1961535917795781,0.0118781923125382,0.28582283459515867,0.7894454627050643,0.192554768066109,0.1842753994670399,0.7182804666674696,normal,structured_multimodal,gpt-4o-mini,4137,둔촌오륜,,2.0,medium,3.0,mixed,True,True,True,"The area shows some signs of hidden transit demand, supported by a notable hidden gap between mobility and observed subway usage, indicating that while mobility appears limited based on subway usage, there may be unaccounted demand due to temporal factors.",Further investigation is needed to confirm the extent of hidden demand.,"```json
+{
+  ""station_name"": ""둔촌오륜"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 3,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""The area shows some signs of hidden transit demand, supported by a notable hidden gap between mobility and observed subway usage, indicating that while mobility appears limited based on subway usage, there may be unaccounted demand due to temporal factors."",
+  ""risk_note"": ""Further investigation is needed to confirm the extent of hidden demand.""
+}
+```"
+316,독립문,3호선,images/station_tiles/map/316_독립문.png,images/station_tiles/satellite/316_독립문.png,0.2053443852035513,0.0870805544016206,0.27644291445176444,0.6772272389896438,0.15219169125977988,0.1182638308019306,0.6401239816758408,normal,tabular_only,gpt-4o-mini,316,독립문,,2.0,medium,4.0,mixed,True,True,True,"The neighborhood exhibits a mobility demand score significantly higher than the observed subway usage, suggesting potential hidden demand. The substantial hidden gap and temporal activity scores contribute to the medium hidden demand designation.",Insufficient subway usage may lead to underinvestment in transit services.,"```json
+{
+  ""station_name"": ""독립문"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 4,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""The neighborhood exhibits a mobility demand score significantly higher than the observed subway usage, suggesting potential hidden demand. The substantial hidden gap and temporal activity scores contribute to the medium hidden demand designation."",
+  ""risk_note"": ""Insufficient subway usage may lead to underinvestment in transit services.""
+}
+```"
+2630,녹사평(용산구청),6호선,images/station_tiles/map/2630_녹사평(용산구청).png,images/station_tiles/satellite/2630_녹사평(용산구청).png,0.1918725713182057,0.067729928414498,0.26378178990708734,0.5234857343379232,0.12547692196516425,0.1241426429037076,0.6218962728841304,normal,structured_multimodal,gpt-4o-mini,2630,녹사평(용산구청),,2.0,medium,4.0,mixed,True,True,True,"The low observed subway usage combined with a significant hidden gap indicates that while mobility is present, it is not being effectively translated into subway ridership. The temporal evidence suggests varying demand patterns that could further contribute to this discrepancy.",Potential underutilization of transit resources may exist.,"```json
+{
+  ""station_name"": ""녹사평(용산구청)"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 4,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""The low observed subway usage combined with a significant hidden gap indicates that while mobility is present, it is not being effectively translated into subway ridership. The temporal evidence suggests varying demand patterns that could further contribute to this discrepancy."",
+  ""risk_note"": ""Potential underutilization of transit resources may exist.""
+}
+```"
+2614,독바위,6호선,images/station_tiles/map/2614_독바위.png,images/station_tiles/satellite/2614_독바위.png,0.17901064922015,0.0332528678788666,0.25520074203955523,0.08557939536871877,0.2120897427166061,0.1457577813412834,0.5809165029304835,normal,structured_multimodal,gpt-4o-mini,2614,독바위,,2.0,medium,3.0,mixed,True,True,True,"The area around 독바위 shows a significant mobility score contrasted by low observed subway usage, indicating potential hidden transit demand. The higher hidden-gap score supports the notion that residents may rely on alternative modes of mobility due to inadequate subway service. Visual morphology hints at urban density which could further suggest latent demand.",Low confidence in the estimation due to variances in temporal data.,"```json
+{
+  ""station_name"": ""독바위"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 3,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""The area around 독바위 shows a significant mobility score contrasted by low observed subway usage, indicating potential hidden transit demand. The higher hidden-gap score supports the notion that residents may rely on alternative modes of mobility due to inadequate subway service. Visual morphology hints at urban density which could further suggest latent demand."",
+  ""risk_note"": ""Low confidence in the estimation due to variances in temporal data.""
+}
+```"
+2822,산성,8호선,images/station_tiles/map/2822_산성.png,images/station_tiles/satellite/2822_산성.png,0.1753176191873424,0.0617973126744155,0.24255621650119213,0.46708169521301457,0.140788349669421,0.1135203065129269,0.6089291874902496,normal,structured_multimodal,gpt-4o-mini,2822,산성,,2.0,medium,3.0,mixed,True,True,True,"The station area demonstrates a notable discrepancy between high mobility demand and low observed subway utilization, suggesting potential hidden transit needs. Although visual evidence indicates an urban environment, the exact relationship is complex and requires further investigation.",Relying solely on visual morphology may lead to underestimating actual transit needs.,"```json
+{
+  ""station_name"": ""산성"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 3,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""The station area demonstrates a notable discrepancy between high mobility demand and low observed subway utilization, suggesting potential hidden transit needs. Although visual evidence indicates an urban environment, the exact relationship is complex and requires further investigation."",
+  ""risk_note"": ""Relying solely on visual morphology may lead to underestimating actual transit needs.""
+}
+```"
+4701,북한산우이,우이신설선,images/station_tiles/map/4701_북한산우이.png,images/station_tiles/satellite/4701_북한산우이.png,0.1587094640002131,0.0178334821339897,0.2298677911699127,0.0,0.12273594738311973,0.1408759818662233,0.56049498696905,normal,structured_multimodal,gpt-4o-mini,4701,북한산우이,,2.0,medium,3.0,mixed,True,True,False,"Although the observed subway usage is quite low, the mobility score indicates some level of demand in the area, suggesting a potential hidden demand for public transit. The visual morphology shows that the station is located near mountainous terrain, which may impact accessibility.",There may be insufficient transit options for residents despite some underlying demand.,"```json
+{
+  ""station_name"": ""북한산우이"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 3,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": false,
+  ""explanation"": ""Although the observed subway usage is quite low, the mobility score indicates some level of demand in the area, suggesting a potential hidden demand for public transit. The visual morphology shows that the station is located near mountainous terrain, which may impact accessibility."",
+  ""risk_note"": ""There may be insufficient transit options for residents despite some underlying demand.""
+}
+```"
+2638,창신,6호선,images/station_tiles/map/2638_창신.png,images/station_tiles/satellite/2638_창신.png,0.156514386713354,0.0384441225321468,0.22193150763974895,0.9158542559176842,0.1383215163864776,0.1180702641812071,0.68657862862319,normal,structured_multimodal,gpt-4o-mini,2638,창신,,2.0,medium,4.0,mixed,True,True,True,"While observed subway usage is relatively low, there is a notable hidden gap between mobility demand and observed transit scores. The temporal evidence suggests variations in demand that are not reflected in the subway usage. Additionally, the visual morphology hints at potential demand not captured by transit metrics.",Further investigation is needed to confirm hidden demand levels.,"```json
+{
+  ""station_name"": ""창신"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 4,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""While observed subway usage is relatively low, there is a notable hidden gap between mobility demand and observed transit scores. The temporal evidence suggests variations in demand that are not reflected in the subway usage. Additionally, the visual morphology hints at potential demand not captured by transit metrics."",
+  ""risk_note"": ""Further investigation is needed to confirm hidden demand levels.""
+}
+```"
+4702,솔밭공원,우이신설선,images/station_tiles/map/4702_솔밭공원.png,images/station_tiles/satellite/4702_솔밭공원.png,0.1508550403410112,0.0144994112599667,0.21923348429578843,0.29900732757298526,0.14599163645749147,0.1363556290810444,0.6068671449096545,normal,structured_multimodal,gpt-4o-mini,4702,솔밭공원,,2.0,medium,4.0,mixed,True,True,True,"While there is a clear mismatch between the mobility demand and observed subway usage, as indicated by the low observed transit score and higher hidden gap score, the visual evidence suggests a suburban context that may limit transit usage. However, the temporal evidence indicates some potential for increased demand at specific times.",The low observed subway usage amid considerable mobility demand may indicate underutilized transit options.,"```json
+{
+  ""station_name"": ""솔밭공원"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 4,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""While there is a clear mismatch between the mobility demand and observed subway usage, as indicated by the low observed transit score and higher hidden gap score, the visual evidence suggests a suburban context that may limit transit usage. However, the temporal evidence indicates some potential for increased demand at specific times."",
+  ""risk_note"": ""The low observed subway usage amid considerable mobility demand may indicate underutilized transit options.""
+}
+```"
+245,신답,2호선,images/station_tiles/map/245_신답.png,images/station_tiles/satellite/245_신답.png,0.1397495563434102,0.0205665730764026,0.20184385518009848,0.9173470230157948,0.10698789779628166,0.1191829832670075,0.6885163982095855,normal,structured_multimodal,gpt-4o-mini,245,신답,,2.0,medium,3.0,mixed,True,True,True,"The station shows a noticeable mobility score that indicates potential demand not reflected in observed subway usage figures. Although there is a visual presence of activity around the area, its spatial configuration does not correlate strongly enough with current subway usage patterns, suggesting an opportunity for increased transit utilization.",There may be unforeseen barriers preventing residents from accessing the subway effectively.,"```json
+{
+  ""station_name"": ""신답"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 3,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""The station shows a noticeable mobility score that indicates potential demand not reflected in observed subway usage figures. Although there is a visual presence of activity around the area, its spatial configuration does not correlate strongly enough with current subway usage patterns, suggesting an opportunity for increased transit utilization."",
+  ""risk_note"": ""There may be unforeseen barriers preventing residents from accessing the subway effectively.""
+}
+```"
+4135,한성백제,9호선(연장),images/station_tiles/map/4135_한성백제.png,images/station_tiles/satellite/4135_한성백제.png,0.130302394910515,0.0214787678659324,0.18802379941435132,0.5034979679617372,0.07518697339119498,0.1088236270445825,0.6145247846539674,normal,structured_multimodal,gpt-4o-mini,4135,한성백제,,2.0,medium,3.0,mixed,True,True,True,"While the mobility score indicates some level of usage, the observed subway score is significantly lower, suggesting there may be hidden demand not represented in current transit usage. Additionally, the temporal evidence points to a varying pattern of mobility that is not aligning with observed subway ridership.",Further investigation is required to understand the underlying factors contributing to this hidden demand.,"```json
+{
+  ""station_name"": ""한성백제"",
+  ""hidden_demand_score"": 2,
+  ""hidden_demand_label"": ""medium"",
+  ""confidence"": 3,
+  ""primary_evidence"": ""mixed"",
+  ""uses_visual_reasoning"": true,
+  ""uses_mobility_subway_reasoning"": true,
+  ""uses_temporal_reasoning"": true,
+  ""explanation"": ""While the mobility score indicates some level of usage, the observed subway score is significantly lower, suggesting there may be hidden demand not represented in current transit usage. Additionally, the temporal evidence points to a varying pattern of mobility that is not aligning with observed subway ridership."",
+  ""risk_note"": ""Further investigation is required to understand the underlying factors contributing to this hidden demand.""
+}
+```"

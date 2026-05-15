@@ -1,0 +1,4 @@
+setting,n_features,silhouette
+mobility_only,42,0.19357483008121754
+visual_only,1536,0.04267664625816343
+mobility_visual,1578,0.04231556266722592

@@ -1,0 +1,16 @@
+semantic_prompt,mean_similarity
+river_or_waterfront,0.29303473
+suburban_peripheral,0.2845081
+low_density_residential,0.28312707
+road_oriented,0.2775253
+low_transit_access,0.27667478
+university_area,0.27492258
+mixed_use,0.26903856
+green_mountain_area,0.2668951
+dense_residential,0.2648374
+pedestrian_friendly,0.2615164
+transit_hub,0.25983
+industrial_office,0.25819367
+nightlife_entertainment,0.25293475
+commercial_downtown,0.24600372
+traditional_market,0.22761425
